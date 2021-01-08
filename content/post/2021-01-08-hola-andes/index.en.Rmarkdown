@@ -1,0 +1,35 @@
+---
+title: hola andes
+author: Ricardo
+date: '2021-01-08'
+slug: []
+categories: []
+tags: []
+Description: ''
+Tags: []
+Categories: []
+DisableComments: no
+---
+
+
+```{r}
+summary(Orange)
+```
+
+
+y mas
+
+```{r echo=FALSE}
+library(ggplot2)
+oplot <- ggplot(Orange, aes(x = age, 
+                   y = circumference, 
+                   colour = Tree)) +
+  geom_point() +
+  geom_line() +
+  guides(colour = FALSE) +
+  theme_bw()
+
+print(oplot)
+```
+
+por que no sale?
