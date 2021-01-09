@@ -1,0 +1,12 @@
+---
+title: escribir y publicar documentos
+author: Ricardo Mayer
+date: '2021-01-09'
+slug: []
+categories: []
+tags: []
+Description: ''
+Tags: []
+Categories: []
+DisableComments: no
+---

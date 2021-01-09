@@ -1,0 +1,18 @@
+---
+title: primeros pasos
+author: Ricardo Mayer
+date: '2021-01-09'
+slug: []
+categories: []
+tags:
+  - R
+  - intro
+Description: ''
+Tags: []
+Categories: []
+DisableComments: no
+---
+
+
+Y esto esta en castellano
+

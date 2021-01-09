@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://datastorytelling.netlify.app/"
 languageCode: en
 DefaultContentLanguage: en
 title: R para comunicadores
@@ -13,7 +13,7 @@ params:
   author: Ricardo Mayer
   customCss: []
   customJs: []
-  description: Materiales curso storytelling
+  description: Materiales data storytelling
   doNotLoadAnimations: no
   favicon: favicons/
   images: images/site-feature-image.png
@@ -30,29 +30,25 @@ params:
       url: https://de.linkedin.com/
     - icon: fab fa-github
       title: GitHub
-      url: https://github.com/lxndrblz/anatole/
+      url: https://github.com/ricardomayerb/rparacomunicadores/
     - icon: fab fa-instagram
       title: instagram
       url: https://www.instagram.com/
     - icon: fas fa-envelope
       title: e-mail
-      url: mailto:mail@alexbilz.com
-  title: R para comunicadores
+      url: mailto:cien@mail.udp.cl
+  title: R storytelling
 menu:
   main:
-    - identifier: home
-      name: Home
-      url: /
-      weight: 100
+#    - identifier: home
+#      name: Home
+#      url: /
+#      weight: 100
     - identifier: posts
-      name: Posts
+      name: Secciones
       url: /post/
-      weight: 200
+      weight: 100
     - identifier: about
       name: About
       url: /about/
-      weight: 300
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 400
+      weight: 200
