@@ -1,7 +1,6 @@
 ---
-title: escribir y publicar documentos
+title: "04 - publicar documentos"
 author: Ricardo Mayer
-date: '2021-01-09'
 slug: []
 categories: []
 tags: []
@@ -9,4 +8,8 @@ Description: ''
 Tags: []
 Categories: []
 DisableComments: no
+weight: 40
+summary: resumen publicar docs
 ---
+
+hola 4

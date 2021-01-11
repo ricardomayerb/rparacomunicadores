@@ -1,18 +1,13 @@
 ---
-title: primeros pasos
+title: "04 - publicar documentos"
 author: Ricardo Mayer
-date: '2021-01-09'
 slug: []
 categories: []
-tags:
-  - R
-  - intro
+tags: []
 Description: ''
 Tags: []
 Categories: []
 DisableComments: no
+weight: 40
+summary: resumen publicar docs
 ---
-
-
-Y esto esta en castellano
-

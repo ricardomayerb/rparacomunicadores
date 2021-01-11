@@ -1,0 +1,12 @@
+---
+title: "01 - Obtener y manipular datos"
+author: Ricardo Mayer
+slug: []
+categories: []
+tags: []
+Description: ''
+Tags: []
+Categories: []
+DisableComments: no
+weight: 10
+---
